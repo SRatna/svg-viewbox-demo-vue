@@ -80,7 +80,11 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #2c3e50;
-    margin-top: 20px;
+    width: 250px;
+    margin: 20px auto;
+    border: 1px solid #adadad;
+    padding: 20px;
+    box-shadow: 2px 2px 2px 2px #b2b2b2;
   }
   h3 {
     text-align: center;
